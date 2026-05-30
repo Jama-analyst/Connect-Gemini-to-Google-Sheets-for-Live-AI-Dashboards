@@ -14,3 +14,5 @@ https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiT
 - [ ] Input this exact code asset block and click Next, then click Insert.
 
 - [ ] Manually resize the generated frame container borders using your layout anchor handles to stretch it beautifully across your design margins.
+
+[The AI Prompt](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf)
