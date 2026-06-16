@@ -1,5 +1,10 @@
 # Connect-Gemini-to-Google-Sheets-for-Live-AI-Dashboards
+I am going to show you how to connect a dashboard built with Gemini to a live data connection through a Google Sheet and then to make that available
+for consumption by end users.
+
 https://sites.google.com/view/jama-analyst/dash
+## Prompting Gemini for the "Perfect Code" (Avoid common error)
+
 
 ## Data Spreadsheet
 https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiTTSE/edit?usp=sharing
