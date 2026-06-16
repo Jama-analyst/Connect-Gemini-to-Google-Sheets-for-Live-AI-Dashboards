@@ -4,7 +4,7 @@ for consumption by end users.
 
 https://sites.google.com/view/jama-analyst/dash
 ## Prompting Gemini for the "Perfect Code" (Avoid common error)
-
+[The AI Prompt](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf)
 
 ## Data Spreadsheet
 https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiTTSE/edit?usp=sharing
@@ -28,4 +28,4 @@ https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiT
 
 https://sites.google.com/view/jama-analyst/dash 
 
-[The AI Prompt](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf)
+
