@@ -7,9 +7,13 @@ for consumption by end users.
 - [ ] Open Gemini -> Prompt your code
 - [ ] Before runnning the insruction in Gemini, you need a URL link and should be generated in Google Sheet
 - [ ] Once the URL link is generated paste in Gemini -> Run
-- [ ] Gemini will generate the Code
-
+      
 [The AI Prompt](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf)
+      
+- [ ] Gemini will generate the Code
+[html code](https://github.com/Jama-analyst/Connect-Gemini-to-Google-Sheets-for-Live-AI-Dashboards/blob/main/DOCTYPE%20html%20(Code%20Generated).docx)
+ 
+
 
 ## Data Spreadsheet
 https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiTTSE/edit?usp=sharing
