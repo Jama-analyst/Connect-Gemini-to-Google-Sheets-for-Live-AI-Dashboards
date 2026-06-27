@@ -5,7 +5,7 @@ for consumption by end users.
 
 ## Prompting Gemini for the "Perfect Code" (Avoid common error)
 - [ ] Open Gemini -> Prompt your code
-- [ ] Before runnning the insruction in Gemini, you need a URL link and should be generated in Google Sheet
+- [ ] Before runnning the instruction in Gemini, you need a URL link and should be generated in Google Sheet
 - [ ] Once the URL link is generated paste in Gemini -> Run
 - [ ] Gemini will generate the Code
       
@@ -29,15 +29,17 @@ https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiT
       
 https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiTTSE/edit?usp=sharing
 
-- [ ] Manually resize the generated frame container borders using your layout anchor handles to stretch it beautifully across your design margins.
-
 
 ## Steps to Deploy inside Google Sites:
-- [ ] Open your workspace designer canvas inside Google Sites.
-- [ ] Click Embed from your structural elements toolbar panel on the right side.
-- [ ] Choose the Embed code selector tab context.
-- [ ] Input this exact code asset block and click Next, then click Insert.
-- [ ] Manually resize the generated frame container borders using your layout anchor handles to stretch it beautifully across your design margins.
+- [ ] Go to Google Sites
+- [ ] Open a Blank Site -> go to Pages
+- [ ] Click on + icon
+- [ ] Select Full Page Embed -> New Page Embed will open
+- [ ] Name -> Dask -> Done
+- [ ] The click on Add Embed -> Embed from the Web screen will open
+- [ ] Click on Embed Code -> paste the Code (copied from Gemini) directly
+- [ ] Click Next -> Insert
+- [ ] 
 
 https://sites.google.com/view/jama-analyst/dash 
 
