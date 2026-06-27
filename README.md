@@ -11,8 +11,6 @@ for consumption by end users.
       
 [The AI Prompt](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf)
       
-https://github.com/Jama-analyst/Connect-Gemini-to-Google-Sheets-for-Live-AI-Dashboards/blob/main/DOCTYPE%20html%20(Code%20Generated).docx
- 
 https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FJama-analyst%2FConnect-Gemini-to-Google-Sheets-for-Live-AI-Dashboards%2Frefs%2Fheads%2Fmain%2FDOCTYPE%2520html%2520(Code%2520Generated).docx&wdOrigin=BROWSELINK
 
 ## Data Spreadsheet
