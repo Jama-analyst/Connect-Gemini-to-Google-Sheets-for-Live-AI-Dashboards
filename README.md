@@ -38,7 +38,7 @@ https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiT
 - [ ] The click on Add Embed -> Embed from the Web screen will open
 - [ ] Click on Embed Code -> paste the Code (copied from Gemini) directly
 - [ ] Click Next -> Insert
-- [ ] 
+- [ ] The Adidas Dashboard will be dispalyed
 
 https://sites.google.com/view/jama-analyst/dash 
 
