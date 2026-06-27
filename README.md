@@ -13,7 +13,7 @@ for consumption by end users.
       
 https://github.com/Jama-analyst/Connect-Gemini-to-Google-Sheets-for-Live-AI-Dashboards/blob/main/DOCTYPE%20html%20(Code%20Generated).docx
  
-
+https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FJama-analyst%2FConnect-Gemini-to-Google-Sheets-for-Live-AI-Dashboards%2Frefs%2Fheads%2Fmain%2FDOCTYPE%2520html%2520(Code%2520Generated).docx&wdOrigin=BROWSELINK
 
 ## Data Spreadsheet
 https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiTTSE/edit?usp=sharing
