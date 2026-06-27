@@ -2,7 +2,7 @@
 I am going to show you how to connect a dashboard built with Gemini to a live data connection through a Google Sheet and then to make that available
 for consumption by end users.
 
-https://sites.google.com/view/jama-analyst/dash
+
 ## Prompting Gemini for the "Perfect Code" (Avoid common error)
 [The AI Prompt](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf)
 
@@ -19,6 +19,8 @@ https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiT
 - [ ] Click on Publish
 - [ ] Click on OK button
 - [ ] URL will bbe generated, then copy and paste the URL link into Gemini (Prompt)
+      
+https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiTTSE/edit?usp=sharing
 
 - [ ] Manually resize the generated frame container borders using your layout anchor handles to stretch it beautifully across your design margins.
 
