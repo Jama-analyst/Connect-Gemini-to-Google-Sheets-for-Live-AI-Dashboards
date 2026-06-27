@@ -8,6 +8,7 @@ for consumption by end users.
 - [ ] Before runnning the instruction in Gemini, you need a URL link and should be generated in Google Sheet
 - [ ] Once the URL link is generated paste in Gemini -> Run
 - [ ] Gemini will generate the Code
+- [ ] Copy the Code and paste it into Google Site
       
 [The AI Prompt](https://github.com/Jama-analyst/-Build-a-Google-Sheets-Dashboard-Web-App-with-AI/blob/main/The%20AI%20Prompt.pdf)
       
