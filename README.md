@@ -52,3 +52,7 @@ https://github.com/Jama-analyst/Connect-Gemini-to-Google-Sheets-for-Live-AI-Dash
 - [ ] This will Publish as a Google Site to sites.google.com
 
 https://sites.google.com/view/jama-analyst/dash 
+
+## Takeways:
+- [ ] One can craete a whole sites of interconnected pages with this method
+- [ ] Can also amend something on the Sheet and once you click Refresh in the Site the changes apply automatically or raher in realtime.
