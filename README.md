@@ -40,6 +40,13 @@ https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiT
 - [ ] Click Next -> Insert
 - [ ] The Adidas Dashboard will be dispalyed
 
+
+## Steps to Publish to the Web:
+- [ ] While in Google Sites
+- [ ] Click on Publish 
+- [ ] Publish to the Web screen will open
+- [ ] under Web Address -> add your web address
+- [ ] Click on Publish
+- [ ] This will Publish as a Google Site to site.google.com
+
 https://sites.google.com/view/jama-analyst/dash 
-
-
