@@ -47,6 +47,6 @@ https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiT
 - [ ] Publish to the Web screen will open
 - [ ] under Web Address -> add your web address
 - [ ] Click on Publish
-- [ ] This will Publish as a Google Site to site.google.com
+- [ ] This will Publish as a Google Site to sites.google.com
 
 https://sites.google.com/view/jama-analyst/dash 
