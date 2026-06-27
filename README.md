@@ -40,6 +40,8 @@ https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiT
 - [ ] Click Next -> Insert
 - [ ] The Adidas Dashboard will be dispalyed
 
+https://github.com/Jama-analyst/Connect-Gemini-to-Google-Sheets-for-Live-AI-Dashboards/blob/main/Google%20Site%20Embedding.png
+
 
 ## Steps to Publish to the Web:
 - [ ] While in Google Sites
