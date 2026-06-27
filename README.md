@@ -10,11 +10,15 @@ https://sites.google.com/view/jama-analyst/dash
 https://docs.google.com/spreadsheets/d/1xaNNdv071LNhT70hsu89deGtQdZRmBDmglKj0tiTTSE/edit?usp=sharing
 
 ## Steps to Publish to Web inside Google Sheet:
-- [ ] Open Google Sheet (Data Sheet).
-- [ ] Right-click on File, then on Share 
-- [ ] Selec Publish to Web from the drop-down menu.
+- [ ] Open Google Sheet (Data Sheet)
+- [ ] Right-click on File -> Share -> Publish to Web 
+- [ ] A drop-down menu will displayed
 - [ ] A Publish to Web screen will open.
-- [ ] 
+- [ ] Link -> Data Sales Adidas
+- [ ] Embed -> Comma-separate values (csv)
+- [ ] Click on Publish
+- [ ] Click on OK button
+- [ ] URL will bbe generated, then copy and paste the URL link into Gemini (Prompt)
 
 - [ ] Manually resize the generated frame container borders using your layout anchor handles to stretch it beautifully across your design margins.
 
