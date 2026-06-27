@@ -1,5 +1,5 @@
 # Connect-Gemini-to-Google-Sheets-for-Live-AI-Dashboards
-I am going to show you how to connect a dashboard built with Gemini to a live data connection through a Google Sheet and then to make that available
+I am going to demonstrate to you how to connect a dashboard built with Gemini to a live data connection through a Google Sheet and then to make that available
 for consumption by end users.
 
 
